@@ -19,4 +19,4 @@ Answer #4
 Correct answer number (1-4)  
 etc.  
 
-I've included an example questions file for reference
+I've included an example questions file (trivia.txt) for reference
