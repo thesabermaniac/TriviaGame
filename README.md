@@ -6,8 +6,7 @@ This program accepts a file containing 10 questions with corresponding answers. 
 The question file must be written in the following form:
 
 
-Question #1 
-
+Question #1   
 Answer #1
 
 Asnwer #2
